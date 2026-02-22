@@ -1,0 +1,19 @@
+#hero-bg{
+    background-image: url(./assets/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-top: 80px;
+}
+#mic{
+    margin: 0 auto;
+}
+
+#hero-bg1{
+    background-image: url(./assets/Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    size: 50%;
+    position: relative;
+    padding-top: 30px;
+}
